@@ -40,7 +40,7 @@ To identify key drivers of healthcare costs and build a predictive model using l
 
 ## Sample Output
 ![Model Output](prediction_plot1.png)
-![Model Output](prediction_plot1.png)
+![Model Output](prediction_plot2.png)
 
 ## Conclusion
 The model successfully explains a large portion of healthcare cost variation and highlights key risk factors.
