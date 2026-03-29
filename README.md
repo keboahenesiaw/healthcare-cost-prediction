@@ -39,7 +39,8 @@ To identify key drivers of healthcare costs and build a predictive model using l
 - Boxplot showing the impact of smoking on healthcare costs
 
 ## Sample Output
-![Model Output](prediction_plot.png)
+![Model Output](prediction_plot1.png)
+![Model Output](prediction_plot1.png)
 
 ## Conclusion
 The model successfully explains a large portion of healthcare cost variation and highlights key risk factors.
